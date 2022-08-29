@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(156, 17, 133);
+    font-family: "helveticaNeue",sans-serif;
+}
+
+.wrapper{
+     width: 90%;
+     font-size: 20px;
+     text-align: center;
+     margin: 30px auto;
+     padding: 2rem;
+     color: white;
+}
+
+button{
+    padding: 1rem;
+    margin: 10px;
+    width: 12em;
+    color: white;
+    background-color: inherit;
+    border: 2px solid white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+button:hover {
+    background-color: white;
+    border: solid 1px white;
+    transition: ease-out;
+    color: rgb(199, 133, 12);
+}
+
+h1,h2{
+  font-family: 'roboto',sans-serif;
+  font-weight: 100;
+  font-size: 2.2em;
+  text-transform: uppercase;
+}
+ #seconds,#tens{
+   font-size: 2em;
+}
+
+
+
+
